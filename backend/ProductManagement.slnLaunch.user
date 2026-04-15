@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\ProductManagement.Api\\ProductManagement.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
